@@ -28,3 +28,23 @@ a:active{
     border:2px solid black;
     letter-spacing: 2px;
 }
+.f1{
+    border: 1px solid;
+    background-color: whitesmoke;
+    float: right;
+    padding: 5px;
+    display: inline;
+    position: relative;
+}
+.d2{
+    display: inline-block;
+}
+.fig{
+    display: block;
+    text-align: center;
+    word-wrap: break-word;
+}
+.pic{
+    width: 200px;
+    height: 200px;
+}
